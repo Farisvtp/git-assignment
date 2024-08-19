@@ -1,3 +1,6 @@
 Hello everyone, Good Morning
 Welcome to DevOps class
 How are you guys doing !
+
+We are going to start the class..
+Todays topic is Maven
